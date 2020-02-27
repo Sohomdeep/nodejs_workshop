@@ -1,0 +1,24 @@
+*.swp
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
+
+pids
+logs
+results
+
+node_modules
+npm-debug.log
+
+#Backup Files
+*.bak
+*.backup
+*.bakup
+*.bk
