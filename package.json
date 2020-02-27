@@ -21,7 +21,7 @@
     "mysql2": "^1.4.2",
     "nodemon": "^1.12.1",
     "pug": "~2.0.0-beta11",
-    "sequelize": "^4.13.8",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^3.0.0",
     "serve-favicon": "~2.4.2"
   }
